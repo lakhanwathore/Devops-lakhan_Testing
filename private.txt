@@ -1,1 +1,2 @@
 this is my private file. of branch private.
+change file name using ctr -o and SAve name change press ctr-Y and then ctr -x
